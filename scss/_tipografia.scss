@@ -1,0 +1,48 @@
+h1 {
+    font-family: 'Playfair Display', serif;
+    letter-spacing: 1px;
+    font-weight: 700;
+}
+ 
+h2, h3, h4, h6 {
+    font-family: 'Playfair Display', serif;
+    font-weight: 600;
+}
+
+/* ------------------------------------------------------------- PARRAFOS Y TEXTOS GRAL. ----------------------------------------------------------------*/
+
+a {
+    text-decoration: none;
+}
+
+p {
+    word-spacing: .5px;
+}
+
+span {
+    font-style: italic;
+}
+
+.txtWhite {
+    color: #fff;
+}
+
+.txtNegro {
+    color: #000
+}
+
+.centrado {
+    text-align: center;
+}
+
+.txtRight {
+    text-align: right;
+}
+
+.contacto {
+    list-style: none;
+}
+
+.bold {
+    font-weight: bold;
+}
