@@ -575,7 +575,7 @@ body {
   margin-bottom: 50px;
   width: 85%;
   height: 85vh;
-  min-height: 700px;
+  min-height: 730px;
   display: grid;
   grid-template-columns: 1fr 1fr;
   grid-template-rows: 1fr 1fr .6fr .6fr .6fr .6fr;
@@ -600,7 +600,7 @@ body {
   margin-bottom: 50px;
   width: 85%;
   height: 85vh;
-  min-height: 700px;
+  min-height: 750px;
   display: grid;
   grid-template-columns: 1fr 1fr;
   grid-template-rows: 1fr 1fr .6fr .6fr .6fr .6fr;
@@ -625,7 +625,7 @@ body {
   margin-bottom: 50px;
   width: 85%;
   height: 85vh;
-  min-height: 700px;
+  min-height: 755px;
   display: grid;
   grid-template-columns: 1fr 1fr;
   grid-template-rows: 1fr 1fr .6fr .6fr .6fr .6fr;
@@ -650,7 +650,7 @@ body {
   margin-bottom: 50px;
   width: 85%;
   height: 85vh;
-  min-height: 700px;
+  min-height: 750px;
   display: grid;
   grid-template-columns: 1fr 1fr;
   grid-template-rows: 1fr 1fr .6fr .6fr .6fr .6fr;
