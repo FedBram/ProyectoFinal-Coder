@@ -222,7 +222,7 @@ body {
   top: 89px;
   right: 0px;
   width: 35vw;
-  height: 180px;
+  height: 190px;
   flex-flow: column nowrap;
   text-align: center;
   border-bottom: 2px #FFA500 solid;
@@ -244,7 +244,10 @@ body {
     height: 50px;
     padding: 10px;
     justify-content: space-around;
-    background-image: linear-gradient(to right, #000, #353535); } }
+    background-image: linear-gradient(to right, #000, #353535);
+    font-size: 1em; }
+  .header__nav__menu__lista__item {
+    margin-top: 5px; } }
 
 @media only screen and (min-width: 992px) {
   .header {
