@@ -221,16 +221,16 @@ body {
   position: absolute;
   top: 89px;
   right: 0px;
-  width: 30vw;
-  height: 150px;
+  width: 35vw;
+  height: 180px;
   flex-flow: column nowrap;
   text-align: center;
   border-bottom: 2px #FFA500 solid;
   border-left: 2px #FFA500 solid;
-  font-size: .9em; }
+  font-size: 1.2em; }
 
 .header__nav__menu__lista__item {
-  margin-top: 5px; }
+  margin-top: 7px; }
   .header__nav__menu__lista__item a {
     color: #fff; }
     .header__nav__menu__lista__item a:hover {

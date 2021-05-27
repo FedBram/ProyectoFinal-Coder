@@ -40,17 +40,17 @@ body {
     position: absolute;
     top: 89px;
     right: 0px;
-    width: 30vw;
-    height: 150px;
+    width: 35vw;
+    height: 180px;
     flex-flow: column nowrap;
     text-align: center;
     border-bottom: 2px $mainOrange solid;
     border-left: 2px $mainOrange solid;
-    font-size: .9em;
+    font-size: 1.2em;
 }
 
 .header__nav__menu__lista__item {
-    margin-top: 5px;
+    margin-top: 7px;
     
     a {
         color: #fff;
